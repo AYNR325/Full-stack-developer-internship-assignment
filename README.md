@@ -4,7 +4,7 @@ A modern, responsive dashboard for tracking donation data, built with React and 
 
 ## live demo
 
-[donation tracking dashboard](https://donation-tracking-dashboard.vercel.app/)
+[donation tracking dashboard](https://full-stack-developer-internship-ass.vercel.app)
 
 ## 🚀 Features
 
